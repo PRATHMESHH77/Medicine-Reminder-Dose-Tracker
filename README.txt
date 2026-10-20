@@ -27,10 +27,6 @@ SYLLABUS CONCEPTS DEMONSTRATED
 - File class
 - Byte streams: FileInputStream and FileOutputStream
 
-FILES
-- All Java source files are in src/medicine/.
-- medicines.txt is created automatically when you save or exit.
-- medicines_backup.dat is created by option 7 after saving.
 
 IMPORTANT
 This is an educational tracker. It displays user-entered schedules and does not send real phone notifications or provide medical advice. Enter only the dose schedule given by a qualified healthcare professional.
