@@ -27,20 +27,6 @@ SYLLABUS CONCEPTS DEMONSTRATED
 - File class
 - Byte streams: FileInputStream and FileOutputStream
 
-HOW TO RUN (Mac / Linux)
-1. Open Terminal in the Medicine_Tracker_Syllabus_Project folder.
-2. Compile:
-   javac -d out src/medicine/*.java
-3. Run:
-   java -cp out medicine.Main
-
-HOW TO RUN (Windows Command Prompt)
-1. Open Command Prompt in the Medicine_Tracker_Syllabus_Project folder.
-2. Compile:
-   javac -d out src\medicine\*.java
-3. Run:
-   java -cp out medicine.Main
-
 FILES
 - All Java source files are in src/medicine/.
 - medicines.txt is created automatically when you save or exit.
